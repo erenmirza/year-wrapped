@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # Repo Specific stuff
-Pipfile.locks
+Pipfile.lock
 secrets.toml
